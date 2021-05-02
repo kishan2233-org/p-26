@@ -1,0 +1,1 @@
+the instructions of cooking of food is called recipe.
